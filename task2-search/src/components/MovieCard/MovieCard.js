@@ -1,6 +1,6 @@
 import React from 'react';
 import style from './MovieCard.module.css';
-
+import PropTypes from 'prop-types';
 
 const MovieCard = ({ items }) => (
     <>
@@ -21,3 +21,12 @@ const MovieCard = ({ items }) => (
 
 
 export default MovieCard;
+
+MovieCard.propTypes = {
+    items: PropTypes.arrayOf(PropTypes.shape({
+        id: PropTypes.number.isRequired,
+        posterUrl: PropTypes.string.isRequired,
+        title: PropTypes.string.isRequired,
+        overview: PropTypes.string.isRequired,
+    }))
+}

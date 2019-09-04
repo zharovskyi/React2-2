@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React2-2/task2-search/build/static/css/main.c50de8c9.chunk.css",
-    "main.js": "/React2-2/task2-search/build/static/js/main.41023858.chunk.js",
-    "main.js.map": "/React2-2/task2-search/build/static/js/main.41023858.chunk.js.map",
+    "main.css": "/React2-2/task2-search/build/static/css/main.c699b7c0.chunk.css",
+    "main.js": "/React2-2/task2-search/build/static/js/main.8d6da019.chunk.js",
+    "main.js.map": "/React2-2/task2-search/build/static/js/main.8d6da019.chunk.js.map",
     "runtime~main.js": "/React2-2/task2-search/build/static/js/runtime~main.d47659c9.js",
     "runtime~main.js.map": "/React2-2/task2-search/build/static/js/runtime~main.d47659c9.js.map",
-    "static/js/2.6dacd7dc.chunk.js": "/React2-2/task2-search/build/static/js/2.6dacd7dc.chunk.js",
-    "static/js/2.6dacd7dc.chunk.js.map": "/React2-2/task2-search/build/static/js/2.6dacd7dc.chunk.js.map",
+    "static/js/2.f1313855.chunk.js": "/React2-2/task2-search/build/static/js/2.f1313855.chunk.js",
+    "static/js/2.f1313855.chunk.js.map": "/React2-2/task2-search/build/static/js/2.f1313855.chunk.js.map",
     "index.html": "/React2-2/task2-search/build/index.html",
-    "precache-manifest.58d824fa4fe3a526165b27a48ec1aed9.js": "/React2-2/task2-search/build/precache-manifest.58d824fa4fe3a526165b27a48ec1aed9.js",
+    "precache-manifest.f42a6ac32e529c459d8c0191302f6aa9.js": "/React2-2/task2-search/build/precache-manifest.f42a6ac32e529c459d8c0191302f6aa9.js",
     "service-worker.js": "/React2-2/task2-search/build/service-worker.js",
-    "static/css/main.c50de8c9.chunk.css.map": "/React2-2/task2-search/build/static/css/main.c50de8c9.chunk.css.map"
+    "static/css/main.c699b7c0.chunk.css.map": "/React2-2/task2-search/build/static/css/main.c699b7c0.chunk.css.map"
   }
 }

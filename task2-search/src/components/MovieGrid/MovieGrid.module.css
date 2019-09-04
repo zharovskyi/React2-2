@@ -7,3 +7,9 @@
   justify-content: center;
   grid-gap: 16px;
 }
+
+.h1 {
+  text-align: center;
+  color: red;
+  font-size: 50px;
+}
