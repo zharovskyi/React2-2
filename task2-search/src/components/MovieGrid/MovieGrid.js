@@ -13,7 +13,6 @@ const filterTasks = (tasks, filter) => {
 };
 export default class MovieGrid extends Component {
     state = {
-        // items: this.props.items,
         search: '',
     };
 

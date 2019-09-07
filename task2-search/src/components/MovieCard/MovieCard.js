@@ -19,7 +19,6 @@ const MovieCard = ({ items }) => (
     </>
 )
 
-
 export default MovieCard;
 
 MovieCard.propTypes = {
